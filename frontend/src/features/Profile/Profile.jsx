@@ -155,7 +155,7 @@ export const Profile = () => {
         <div className="profileDetails">
           <div className="indProfileContent">
             <p className="indProfileContentTitle">NAME</p>
-            <p className="indProfileContentValue">{user.name}</p>
+            <p className="indProfileContentValue">Neeraj</p>
           </div>
           <div className="profileContentDivider" />
           <div className="indProfileContent">
