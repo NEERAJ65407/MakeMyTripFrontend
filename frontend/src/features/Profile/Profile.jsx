@@ -120,7 +120,7 @@ export const Profile = () => {
         </div>
         <div className="userTitleSection">
           <p className="userTitle">{user.name}</p>
-          <p className="userTag">PERSONAL PROFILE</p>
+          <p className="userTag">SUHAIL PROFILE</p>
         </div>
         <div className="profileTabs">
           <a href="#profile2">
