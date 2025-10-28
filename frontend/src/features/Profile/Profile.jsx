@@ -140,7 +140,7 @@ export const Profile = () => {
       <div className="profile2Container" id="profile2">
         <div className="profileContentView">
           <div className="profileContent">
-            <p className="profileContentTitle">Profile</p>
+            <p className="profileContentTitle">Hi Profile</p>
             <p className="profileContentTag">
               Basic info, for a faster booking experience
             </p>
