@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MakeMyTripFrontend/static/css/main.1cfdd83f.css",
-    "main.js": "/MakeMyTripFrontend/static/js/main.92ce3b7a.js",
+    "main.js": "/MakeMyTripFrontend/static/js/main.98d4e2cc.js",
     "static/media/img1.png": "/MakeMyTripFrontend/static/media/img1.d7b44be7f407fce0b87b.png",
     "static/media/img.png": "/MakeMyTripFrontend/static/media/img.0b5aec014020add2d563.png",
     "static/media/promo.png": "/MakeMyTripFrontend/static/media/promo.9bd86a4046b285aa64a0.png",
@@ -9,10 +9,10 @@
     "static/media/mapimg.jpg": "/MakeMyTripFrontend/static/media/mapimg.f9779ccbf6cc2236cba1.jpg",
     "index.html": "/MakeMyTripFrontend/index.html",
     "main.1cfdd83f.css.map": "/MakeMyTripFrontend/static/css/main.1cfdd83f.css.map",
-    "main.92ce3b7a.js.map": "/MakeMyTripFrontend/static/js/main.92ce3b7a.js.map"
+    "main.98d4e2cc.js.map": "/MakeMyTripFrontend/static/js/main.98d4e2cc.js.map"
   },
   "entrypoints": [
     "static/css/main.1cfdd83f.css",
-    "static/js/main.92ce3b7a.js"
+    "static/js/main.98d4e2cc.js"
   ]
 }
