@@ -43,7 +43,7 @@ const Qna = () => {
 
            <h4>Q. Where can I find current deals and offers of MakeMyTrip?</h4>
            <p>A. MakeMyTrip offers plenty of deals and offers on luxury and budget hotels in India in all the cities, <br /> on a daily basis. However, these are available for a limited time and they are subject to change the <br /> next day. You can look for these deals while you are about to book the hotel after narrowing down <br /> your choices. On the app, you can check a property that has ‘MMT Exclusive Deal’ button below its <br /> discounted rate. By tapping on it, you would know how many offers are available.</p>
-               
+            <h1>SUHAIL</h1>
            </div>
 
 
