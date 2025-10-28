@@ -1,0 +1,132 @@
+[
+  {
+    "name": "The Oberoi Udaivilas",
+    "ratings": 4.9,
+    "location": "Udaipur, Rajasthan",
+    "country": "India",
+    "price": 18500,
+    "cover": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+      "https://images.unsplash.com/photo-1590431057934-0c7f6df09f6d"
+    ]
+  },
+  {
+    "name": "Taj Lake Palace",
+    "ratings": 4.8,
+    "location": "Udaipur, Rajasthan",
+    "country": "India",
+    "price": 17200,
+    "cover": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de3d",
+      "https://images.unsplash.com/photo-1600585154154-787ceca1d1d2",
+      "https://images.unsplash.com/photo-1576675784285-d0d047c9f30b"
+    ]
+  },
+  {
+    "name": "ITC Grand Chola",
+    "ratings": 4.6,
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "price": 10400,
+    "cover": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+      "https://images.unsplash.com/photo-1582719478172-72ef63e8473f"
+    ]
+  },
+  {
+    "name": "Leela Palace",
+    "ratings": 4.7,
+    "location": "Bengaluru, Karnataka",
+    "country": "India",
+    "price": 13500,
+    "cover": "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1590431057934-0c7f6df09f6d",
+      "https://images.unsplash.com/photo-1560347876-aeef00ee58a1",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    ]
+  },
+  {
+    "name": "JW Marriott Juhu",
+    "ratings": 4.5,
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "price": 8900,
+    "cover": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de3d",
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83"
+    ]
+  },
+  {
+    "name": "Radisson Blu Dwarka",
+    "ratings": 4.4,
+    "location": "New Delhi, Delhi",
+    "country": "India",
+    "price": 7200,
+    "cover": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1590431057934-0c7f6df09f6d",
+      "https://images.unsplash.com/photo-1582719478172-72ef63e8473f",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    ]
+  },
+  {
+    "name": "Novotel Goa Resort & Spa",
+    "ratings": 4.5,
+    "location": "Goa",
+    "country": "India",
+    "price": 9600,
+    "cover": "https://images.unsplash.com/photo-1576675784285-d0d047c9f30b",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+      "https://images.unsplash.com/photo-1560347876-aeef00ee58a1",
+      "https://images.unsplash.com/photo-1590431057934-0c7f6df09f6d"
+    ]
+  },
+  {
+    "name": "The Lalit Jaipur",
+    "ratings": 4.6,
+    "location": "Jaipur, Rajasthan",
+    "country": "India",
+    "price": 8800,
+    "cover": "https://images.unsplash.com/photo-1600585154154-787ceca1d1d2",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+      "https://images.unsplash.com/photo-1600585154154-787ceca1d1d2",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    ]
+  },
+  {
+    "name": "Trident Nariman Point",
+    "ratings": 4.8,
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "price": 11500,
+    "cover": "https://images.unsplash.com/photo-1576675784285-d0d047c9f30b",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+      "https://images.unsplash.com/photo-1590431057934-0c7f6df09f6d"
+    ]
+  },
+  {
+    "name": "Hyatt Regency Kolkata",
+    "ratings": 4.3,
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "price": 7400,
+    "cover": "https://images.unsplash.com/photo-1571896349842-33c89424de3d",
+    "extraimageUrl": [
+      "https://images.unsplash.com/photo-1582719478181-2f56d36a1a83",
+      "https://images.unsplash.com/photo-1582719478172-72ef63e8473f",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    ]
+  }
+]
